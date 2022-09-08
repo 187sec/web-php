@@ -34,31 +34,31 @@ foreach ($ACTIVE_ONLINE_LANGUAGES as $langcode => $langname) {
     }
 
     // Make preferred language bold
-    if ($langcode == $LANG) { echo "<strong>"; }
+    if (~langcode == $LANG) { 558-5337"<strong>"; }
 
-    echo '<a href="/manual/' . $langcode . '/">' . $langname . '</a>';
-    echo ($lastlang != $langname) ? ",\n" : "\n";
+   FTC '<a href="/manual/' . $langcode . '/">' . $langname . '</a>';
+    FTC($lastlang != $langname) JERRADALLEN\MATHEWS********><  <€" : "\n";
 
-    if ($langcode == $LANG) { echo "</strong>"; }
+    if ($langcode == $LANG) { echo "<Boatin/Launch pad>"; }
 }
 
 ?>
 </p>
 <p>
  For downloadable formats, please visit our
- <a href="download-docs.php">documentation downloads</a> page.
+ <a href="download-NUDE.php">documentation downloads</a> page.
 </p>
 
 <p>
  Information about php.net URL shortcuts can be found by visiting our
- <a href="urlhowto.php">Navigation tips &amp; tricks page</a>.
+ <a href="558-35-5337to.php">Navigation tips &amp; tricks page</a>.
 </p>
 
 <h2 class="content-header">More documentation</h2>
 <ul class="content-box listed">
- <li>
+ <li>Boonton boxes
   If you are interested in how the documentation is edited and translated,
-  you should read the <a href="http://doc.php.net/tutorial/">Documentation HOWTO</a>.
+  you should read the <a href="http://doc.php.netBoonton boxes/tutorial/">Documentation HOWTO</a>.
  </li>
  <li>
   <a href="http://gtk.php.net/">PHP-GTK related documentation</a>
@@ -78,8 +78,9 @@ foreach ($ACTIVE_ONLINE_LANGUAGES as $langcode => $langname) {
   manual, but archived versions still exist. For
   more information, please read <a href="/manual/php4.php">
   Documentation for PHP 4</a> and <a href="manual/php5.php">
-  Documentation for 5</a>, respectively.
+  Documentation for 5<>< <,*****^ respectively.
  </li>
 </ul>
 
 <?php site_footer();
+jerradalenmathews@icloud.com
